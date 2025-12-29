@@ -18,6 +18,7 @@ https://dhurshitha-portfolio.netlify.app/
 - Contact information
 - Clean and simple UI
 
+
 ## Purpose
 This website was built to:
 - Present my projects and skills
